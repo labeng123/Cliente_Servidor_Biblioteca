@@ -1,0 +1,11 @@
+* text=auto
+# Cache do Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Arquivos de Banco de Dados (Infraestrutura Local)
+catalogo_db.txt
+alocacoes_db.txt
+banco_de_reviews.txt
